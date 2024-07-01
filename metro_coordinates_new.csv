@@ -1,0 +1,95 @@
+stop,line,type,lat,lon
+Niquia,A,Metro,6.337890531,-75.54424234
+Bello,A,Metro,6.329955914,-75.55373852
+Madera,A,Metro,6.315903834,-75.55536236
+Acevedo,A,Metro,6.29989802,-75.5585923
+Tricentenario,A,Metro,6.290357337,-75.56471749
+Caribe,A,Metro,6.278255773,-75.56947511
+University,A,Metro,6.269431961,-75.56590748
+Hospital,A,Metro,6.263647351,-75.56307025
+Prado,A,Metro,6.256896314,-75.56622376
+Berrio Park,A,Metro,6.250485078,-75.56824935
+San Antonio,A,Metro,6.24719164,-75.56983494
+Alpujarra,A,Metro,6.24303309,-75.57144157
+Exposiciones,A,Metro,6.238562629,-75.57317254
+Industriales,A,Metro,6.230151854,-75.57567471
+Poblado,A,Metro,6.212673312,-75.57803199
+Aguacatala,A,Metro,6.193802193,-75.58184114
+Ayura,A,Metro,6.186567036,-75.58544475
+Envigado,A,Metro,6.174697778,-75.597091
+Itagui’,A,Metro,6.163250515,-75.60588972
+Sabaneta,A,Metro,6.157492329,-75.61675284
+La Estrella,A,Metro,6.15269482,-75.62650308
+Arvi,L,Cable,6.284103851,-75.50313568
+Santo Domingo Savio,L,Cable,6.29317215,-75.54162068
+Santo Domingo Savio,K,Cable,6.29317215,-75.54162068
+Popular,K,Cable,6.295407971,-75.54807667
+Andalucia,K,Cable,6.296364191,-75.5518521
+Acevedo,K,Cable,6.300356598,-75.55828385
+Parque de Aranjuez,L1,Bus rapid transit,6.285243616,-75.5566174
+Berlin,L1,Bus rapid transit,6.28300551,-75.55288433
+Las Esmeraldas,L1,Bus rapid transit,6.278548118,-75.5532031
+Manrique,L1,Bus rapid transit,6.273675784,-75.55404513
+Gardel,L1,Bus rapid transit,6.267815728,-75.55507534
+Palos verdes,L1,Bus rapid transit,6.262567819,-75.5558023
+San Pedro,L1,Bus rapid transit,6.263520736,-75.56017176
+Hospital,L1,Bus rapid transit,6.264209074,-75.5630679
+Ruta N U de A,L1,Bus rapid transit,6.263941277,-75.56758964
+Chagualo,L1,Bus rapid transit,6.26097392,-75.56914637
+Minorista,L1,Bus rapid transit,6.256280881,-75.57316301
+Cisneros,L1,Bus rapid transit,6.251703964,-75.57485467
+Plaza Mayor,L1,Bus rapid transit,6.2445367,-75.57532699
+Industriales,L1,Bus rapid transit,6.230523965,-75.57649604
+Nutibara,L1,Bus rapid transit,6.231736267,-75.58213557
+Fatima,L1,Bus rapid transit,6.231670133,-75.58658163
+Rosales,L1,Bus rapid transit,6.231566102,-75.59093986
+Parque de Belin,L1,Bus rapid transit,6.231478073,-75.59676158
+La Palma,L1,Bus rapid transit,6.231217329,-75.601013
+Los Alpes,L1,Bus rapid transit,6.231082082,-75.60510795
+Universidad de Medellin,L1,Bus rapid transit,6.230887603,-75.6092937
+Parque de Aranjuez,L2,Bus rapid transit,6.285243616,-75.5566174
+Berlin,L2,Bus rapid transit,6.28300551,-75.55288433
+Las Esmeraldas,L2,Bus rapid transit,6.278548118,-75.5532031
+Manrique,L2,Bus rapid transit,6.273270292,-75.55406946
+Gardel,L2,Bus rapid transit,6.267815728,-75.55507534
+Palos verdes,L2,Bus rapid transit,6.262567819,-75.5558023
+San Pedro,L2,Bus rapid transit,6.263520736,-75.56017176
+Hospital,L2,Bus rapid transit,6.264209074,-75.5630679
+Prado,L2,Bus rapid transit,6.259025645,-75.55958105
+Catedral Metropolitana,L2,Bus rapid transit,6.253245131,-75.56259144
+La Playa,L2,Bus rapid transit,6.249743304,-75.56443215
+San Jose,L2,Bus rapid transit,6.246789065,-75.56636334
+Barrio Colon,L2,Bus rapid transit,6.240684434,-75.56995312
+Barrio San Diego,L2,Bus rapid transit,6.233747845,-75.57002573
+Barrio Colombia,L2,Bus rapid transit,6.229061656,-75.56987548
+Industriales,L2,Bus rapid transit,6.230523965,-75.57649604
+Nutibara,L2,Bus rapid transit,6.231736267,-75.58213557
+Fatima,L2,Bus rapid transit,6.231670133,-75.58658163
+Rosales,L2,Bus rapid transit,6.231566102,-75.59093986
+Parque de Belin,L2,Bus rapid transit,6.231478073,-75.59676158
+La Palma,L2,Bus rapid transit,6.231217329,-75.601013
+Los Alpes,L2,Bus rapid transit,6.231082082,-75.60510795
+Universidad de Medellin,L2,Bus rapid transit,6.230887603,-75.6092937
+La Aurora,J,Cable,6.281075277,-75.61431619
+Vallejuelos,J,Cable,6.275383481,-75.61405156
+Juan XXIII,J,Cable,6.265717259,-75.61376469
+San Javier,J,Cable,6.256671377,-75.6134471
+San Javier,B,Metro,6.257009988,-75.61391112
+Santa Lucia,B,Metro,6.258091988,-75.60376246
+Floresta,B,Metro,6.2586696,-75.59775934
+Estadio,B,Metro,6.253318326,-75.58828258
+Suramericana,B,Metro,6.252995812,-75.58294217
+Cisneros,B,Metro,6.249121086,-75.57482687
+San Antonio,B,Metro,6.247468073,-75.56980663
+San Antonio,T-A,Tramway,6.247146425,-75.56928949
+San Jose,T-A,Tramway,6.248606898,-75.56589781
+Pabellon del Agua,T-A,Tramway,6.24685807,-75.56190651
+Bicentenario,T-A,Tramway,6.243961066,-75.55877614
+Buenos Aires,T-A,Tramway,6.241418831,-75.55390767
+Miraflores,T-A,Tramway,6.2414403,-75.54903256
+Loyola,T-A,Tramway,6.239243278,-75.54509116
+Alejandro Echavarria,T-A,Tramway,6.237420366,-75.5415617
+Oriente,T-A,Tramway,6.234861274,-75.54018841
+Oriente,H,Cable,6.233473962,-75.53991706
+Las Torres,H,Cable,6.236893079,-75.53626572
+Villa Sierra,H,Cable,6.235552142,-75.52841761

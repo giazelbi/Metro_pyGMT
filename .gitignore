@@ -1,0 +1,8 @@
+# No Jupyter checkpoints
+.ipynb_checkpoints/
+
+# No Mac OS hidden folders
+.DS_Store
+
+# No Rstudio undesired stuff
+.Rhistory
