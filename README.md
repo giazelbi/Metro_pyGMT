@@ -13,3 +13,5 @@ Data from Oxford Summer School on Economic Networks.
 - *comunas_pop.csv* for population in the communas.
 
 - *Medellin_metro.ipynb*, to produce images and build the NetworkX NW
+
+- *requirements.txt* collects the versions of the used packages
